@@ -1,5 +1,5 @@
 # Roadmap-Magento-2-Certified-Professional-Front-End-Developer
-Repository dedicated to create a update a clear organization for magento 2 front end certification,
+Repositório dedicado a criar e atualizar uma organização clara para certificação de front-end do magento 2
 
 # Profissional Certificado Front End  Magento 2
 
